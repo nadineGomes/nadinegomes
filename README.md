@@ -144,6 +144,5 @@ Apaixonada por tecnologia, segurança e aprendizado contínuo.
 
 ![nadineGomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadineGomes&show_icons=true&theme=dracula&include_all_commits&locale=pt-br)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nadineGomes&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 </p>
