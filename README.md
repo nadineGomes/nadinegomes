@@ -143,7 +143,7 @@ Aqui tenho alguns repositórios de estudo onde crio documentações e mini proje
 
 ### 📊 Estatísticas
 
-![nadineGomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadineGomes&show_icons=true&theme=dracula&include_all_commits&locale=pt-br)
+![nadineGomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadineGomes&show_icons=true&theme=dracula&include_all_commits&locale=pt-br) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadineGomes&layout=compact&theme=dracula)
 
 
 </p>
