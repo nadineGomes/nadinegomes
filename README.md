@@ -1,8 +1,9 @@
 # 👩🏻‍💻 Olá, Eu sou a Nadine! 👋
 
-Sou Analista de Sistemas com mais de 4 anos de experiência em SRE, DevOps e automação de infraestrutura.
-Trabalho com servidores Linux, pipelines CI/CD, Docker, Ansible, ferramentas de monitoramento e serviços AWS.
+Sou Analista de Sistemas com experiência em SRE, DevOps e automação de infraestrutura.
 Apaixonada por tecnologia, segurança e aprendizado contínuo.
+
+Aqui tenho alguns repositórios de estudo onde crio documentações e mini projetos para fixar o conhecimentos e compartilhar com outras pessoas!
 
 💭 Atualmente aprendendo sobre Segurança da informação e cultura DevSecOps!
 
